@@ -1,1 +1,2 @@
-# bubble-shooter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
